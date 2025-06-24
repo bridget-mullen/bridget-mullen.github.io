@@ -1,11 +1,11 @@
 :root {
-    --primary-color: #EAE8FF; /* Pale lavender */
-    --secondary-color: #B8B8FF; /* Periwinkle */
-    --accent-color: #9381FF; /* Soft violet */
-    --light-color: #F8F7FF; /* Ice white */
-    --dark-color: #4A4453; /* Charcoal purple */
-    --font-primary: 'Manrope', sans-serif;
-    --font-secondary: 'Cormorant Garamond', serif;
+    --primary-color: #F5F0F0; /* Warm white */
+    --secondary-color: #FFE5E5; /* Whisper pink */
+    --accent-color: #FFB3B3; /* Blush */
+    --light-color: #FFFFFF; /* Pure white */
+    --dark-color: #5E5E5E; /* Medium gray */
+    --font-primary: 'Figtree', sans-serif;
+    --font-secondary: 'Fraunces', serif;
 }
 
 body {
