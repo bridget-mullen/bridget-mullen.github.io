@@ -1,11 +1,11 @@
 :root {
-    --primary-color: #2c3e50;
-    --secondary-color: #3498db;
-    --accent-color: #e74c3c;
-    --light-color: #ecf0f1;
-    --dark-color: #2c3e50;
-    --font-primary: 'Montserrat', sans-serif;
-    --font-secondary: 'Playfair Display', serif;
+    --primary-color: #FF9AA2; /* Soft pink */
+    --secondary-color: #FFB7B2; /* Light coral */
+    --accent-color: #FFDAC1; /* Peach */
+    --light-color: #E2F0CB; /* Mint */
+    --dark-color: #B5EAD7; /* Soft teal */
+    --font-primary: 'Nunito', sans-serif;
+    --font-secondary: 'Cookie', cursive;
 }
 
 body {
