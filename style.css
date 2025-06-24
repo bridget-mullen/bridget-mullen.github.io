@@ -1,11 +1,15 @@
 :root {
-    --primary-color: #F5F0F0; /* Warm white */
-    --secondary-color: #FFE5E5; /* Whisper pink */
-    --accent-color: #FFB3B3; /* Blush */
-    --light-color: #FFFFFF; /* Pure white */
-    --dark-color: #5E5E5E; /* Medium gray */
-    --font-primary: 'Figtree', sans-serif;
-    --font-secondary: 'Fraunces', serif;
+    --primary-color: #E2DFFF; /* Richer pale lavender */
+    --secondary-color: #9A97FF; /* Deeper periwinkle */
+    --accent-color: #7A6BFF; /* Vibrant violet */
+    --light-color: #F5F4FF; /* Brighter ice white */
+    --dark-color: #3A3646; /* Almost black purple */
+    --font-primary: 'Manrope', sans-serif;
+    --font-secondary: 'Cormorant Garamond', serif;
+    
+    /* New contrast boosters */
+    --text-primary: #2A2635; /* Soft black */
+    --text-secondary: #5A5766; /* Gray-purple */
 }
 
 body {
@@ -66,6 +70,7 @@ body {
     overflow: hidden;
     transition: transform 0.3s ease;
 }
+
 
 .project-card:hover {
     transform: translateY(-5px);
