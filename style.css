@@ -18,12 +18,23 @@
     --font-secondary: 'Cormorant Garamond', serif;
 }
 
+
+h1, h2, h3 {
+  color: var(--dark-color);         /* Deep maroon headers */
+  font-family: var(--font-secondary);
+}
+
+a, .btn {
+  color: var(--accent-color);       /* Muted maroon links */
+}
 body {
     font-family: var(--font-primary);
     line-height: 1.6;
     color: var(--dark-color);
     margin: 0;
     padding: 0;
+    background: var(--primary-color);
+    color: var(--text-primary);       /* Maroon text on lavender */
 }
 
 .hero {
