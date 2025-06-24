@@ -76,7 +76,7 @@ body {
 }
 .project-image img {
     width: 100%;   /* Will fill its container */
-    max-width: 300px; /* But never exceed this */
+    max-width: 250px; /* But never exceed this */
     height: auto;
     object-fit: cover; /* Ensures images fill space without distortion */
 }
