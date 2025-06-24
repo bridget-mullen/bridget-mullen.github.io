@@ -192,7 +192,14 @@ hr {
   border: 1px solid var(--contrast-color); /* Dusty maroon divider */
   opacity: 0.2;
 }
-
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary-color: #1E1A24;       /* Deep purple background */
+    --light-color: #2A2438;         /* Maroon-tinged containers */
+    --text-primary: #E2DFFF;         /* Lavender text */
+    --accent-color: #C49AB3;         /* Soft maroon */
+  }
+}
 /* Responsive design */
 @media (max-width: 768px) {
     .project-card {
