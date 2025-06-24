@@ -115,7 +115,7 @@ body {
 
 .project-details h3 {
     font-family: var(--font-secondary);
-    color: var(--primary-color);
+    color: var(--dark-color);
     margin-top: 0;
 }
 
