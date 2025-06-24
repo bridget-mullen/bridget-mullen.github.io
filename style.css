@@ -1,15 +1,21 @@
 :root {
-    --primary-color: #E2DFFF; /* Richer pale lavender */
-    --secondary-color: #9A97FF; /* Deeper periwinkle */
-    --accent-color: #7A6BFF; /* Vibrant violet */
-    --light-color: #F5F4FF; /* Brighter ice white */
-    --dark-color: #3A3646; /* Almost black purple */
+    /* Original Lavender Base */
+    --primary-color: #EAE8FF;       /* Pale lavender (background) */
+    --secondary-color: #B8B8FF;     /* Periwinkle (secondary accents) */
+    --light-color: #F8F7FF;         /* Ice white (cards/containers) */
+    
+    /* New Maroon-Infused Colors */
+    --accent-color: #8A5A7D;        /* Muted maroon (primary accent) */
+    --dark-color: #3A2E3A;          /* Deep maroon-purple (text/headers) */
+    --contrast-color: #6D4C5C;      /* Dusty maroon (secondary accents) */
+    
+    /* Text Colors */
+    --text-primary: #3A2E3A;        /* Dark maroon for body text */
+    --text-secondary: #5A4A5A;      /* Soft purple-gray for subtitles */
+    
+    /* Fonts */
     --font-primary: 'Manrope', sans-serif;
     --font-secondary: 'Cormorant Garamond', serif;
-    
-    /* New contrast boosters */
-    --text-primary: #2A2635; /* Soft black */
-    --text-secondary: #5A5766; /* Gray-purple */
 }
 
 body {
