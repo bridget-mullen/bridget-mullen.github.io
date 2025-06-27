@@ -245,7 +245,7 @@ body {
 }
 
 .resume-item h5 {
-    color: var(--text-secondary);
+    color: var(--accent-color);
     font-weight: 400;
     margin-top: 0;
 }
