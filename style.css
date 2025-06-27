@@ -12,10 +12,14 @@
     /* Text Colors */
     --text-primary: #3A2E3A;        /* Dark maroon for body text */
     --text-secondary: #5A4A5A;      /* Soft purple-gray for subtitles */
+
+    /* Trial Colors */
+    --trial-blue: #deeeff
     
     /* Fonts */
     --font-primary: 'Manrope', sans-serif;
     --font-secondary: 'Cormorant Garamond', serif;
+    
 }
 
 
@@ -33,7 +37,7 @@ body {
     color: var(--dark-color);
     margin: 0;
     padding: 0;
-    background: var(--primary-color);
+    background: var(--trial-blue);
     color: var(--text-primary);       /* Maroon text on lavender */
 }
 
