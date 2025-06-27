@@ -39,7 +39,7 @@ body {
 
 .hero {
     background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
-    padding: 3rem 1rem;
+    padding: 1.5rem 1rem;
 }
 
 .hero-content {
@@ -177,7 +177,7 @@ body {
 
 /* Profile Image Styling */
 .profile-image-container {
-    width: 250px; /* Adjust based on your image proportions */
+    width: 3000px; /* Adjust based on your image proportions */
     height: 450px; /* Tall rectangle format */
     border-radius: 12px;
     overflow: hidden;
