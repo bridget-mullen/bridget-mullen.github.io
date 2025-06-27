@@ -177,7 +177,7 @@ body {
 
 /* Profile Image Styling */
 .profile-image-container {
-    width: 3000px; /* Adjust based on your image proportions */
+    width: 300px; /* Adjust based on your image proportions */
     height: 450px; /* Tall rectangle format */
     border-radius: 12px;
     overflow: hidden;
